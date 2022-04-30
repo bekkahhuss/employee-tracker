@@ -16,11 +16,11 @@ VALUES
 ('16', '40000', 'sales manager', '3');
 
 INSERT INTO employee
-    (id, first_name, last_name, role_id, manager_id)
+    (id, first_name, last_name, role_id, department_id, manager_id)
 VALUES
-('111', 'Sam' , 'Smith', '11', '222'),
-('222', 'Bob', 'Johnson', '12', '0'),
-('333', 'Dante', 'Jones', '13', '444'),
-('444', 'Shandra', 'Matthews', '14', '0'),
-('555', 'Maya', 'Anderson', '15', '666'),
-('666', 'Steve', 'Michaels', '16', '0');
+('111', 'Sam' , 'Smith', '11', '1', '222'),
+('222', 'Bob', 'Johnson', '12', '1', '0'),
+('333', 'Dante', 'Jones', '13', '2', '444'),
+('444', 'Shandra', 'Matthews', '14', '2', '0'),
+('555', 'Maya', 'Anderson', '15', '3', '666'),
+('666', 'Steve', 'Michaels', '16', '3', '0');
