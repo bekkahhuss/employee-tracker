@@ -33,3 +33,4 @@ This tool allows business owners to view and manage the departments, roles, and 
 - Express.js
 
 ## Images
+![Example Image](https://github.com/bekkahhuss/employee-tracker/blob/main/assets/employ-tracker-tables.png)
