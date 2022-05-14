@@ -11,6 +11,7 @@ This tool allows business owners to view and manage the departments, roles, and 
 - Add Employee 
 - Update Employee Role
 
+Check out this ![Walkthrough Video](https://github.com/bekkahhuss/employee-tracker/blob/main/assets/employee-tracker.mp4) for a demo of all current features.
 
 ## Installation
 - `git clone git@github.com:bekkahhuss/employee-tracker.git`
